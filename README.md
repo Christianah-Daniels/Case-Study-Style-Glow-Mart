@@ -1,2 +1,37 @@
-# Case-Study-Style
-This project is an interactive Executive Revenue Summary Dashboard built in Microsoft Excel to provide clear insights into business performance. It transforms raw sales data into meaningful visualizations that support data-driven decision-making.
+           The dashboard includes:
+
+ Total Revenue, Quantity, Orders & Categories KPIs
+
+ Monthly Revenue Trend
+
+ Revenue by Product Category
+
+ Revenue by Staff
+
+ Customer Tier Breakdown
+
+ Revenue by Priority
+
+ Revenue by Region
+
+ Revenue by Payment Method
+
+ Interactive Slicers for dynamic filtering.
+
+Skills:
+
+Excel Dashboards
+
+Pivot Tables
+
+Pivot Charts
+
+Slicers
+
+Data Analysis
+
+Data Visualization
+
+KPI Reporting
+
+#Excel #MicrosoftExcel #DataAnalytics #DataAnalysis #ExcelDashboard #DashboardDesign #BusinessIntelligence #DataVisualization #PivotTable #DataAnalyst #Reporting #KPI #BusinessAnalysis #Analytics #PortfolioProject
